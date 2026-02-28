@@ -1,5 +1,6 @@
 # CamBoard
 pip install opencv-python mediapipe pyautogui pynput numpy pywin32 pyautogui pygame vgamepad
+
 A program to replicate movements into keyboard and gamepad signals.
 
 Current loadout:
